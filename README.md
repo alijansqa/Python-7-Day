@@ -21,4 +21,9 @@ Each day of the challenge is organized into dedicated sub-folders containing ind
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/alijansqa/Python-7-Days-Challenge.git](https://github.com/alijansqa/Python-7-Days-Challenge.git)
+   git clone https://github.com/alijansqa/Python-7-Days-Challenge.git
+
+
+
+
+   
