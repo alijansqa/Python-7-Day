@@ -1,26 +1,24 @@
-# 🐍 Python 7-Day Fundamentals Challenge
+# Python 7-Day Fundamentals Challenge
 
-Documenting my 7-day hands-on progress mastering Python fundamentals, logic development, and core programming concepts.
+A structured repository containing practical code, exercises, and logic building for core Python programming. Designed as an independent workspace to master foundational syntax, data structures, and problem-solving skills required for software engineering and automated software testing.
 
----
+## 🎯 Repository Purpose
+* Develop clean programming logic using core Python syntax and built-in functions.
+* Master problem-solving, variable scoping, control flow, data handling, and dynamic inputs.
+* Maintain clean code, consistent formatting, and organized version control practices on GitHub.
 
-## 📂 Repository Structure
+## 📁 Repository Structure
+Each day of the challenge is organized into dedicated sub-folders containing individual laboratory scripts (`.py`) and folder-level documentation:
 
-* `Day1/` - Core Syntax, Basic Output & Calculator
+* Each directory houses hands-on code scripts focused on specific learning modules.
+* Each module folder includes its own `README.md` detailing the scripts and key technical concepts covered.
 
----
+## 🛠️ Environment & Tools
+* **Language:** Python 3.x
+* **IDE:** JetBrains PyCharm
+* **Version Control:** Git & GitHub
 
-## 📌 Day 1: Core Fundamentals & Basic I/O
-
-### Key Concepts Learned
-* **Basic Output:** Printing strings and numerical operations using `print()`.
-* **Function Mechanics:** Understanding `print()` default parameters (`*args`, `sep`, `end`).
-* **Comments & Documentation:** Using `#` for single-line comments and `"""` for docstrings.
-* **Variables & Data Types:** Understanding dynamic typing and user input type casting (`int()`, `float()`, `str()`).
-
-### 🛠️ Day 1 Code Files
-* `Day1/LAB001.py` - Basic "Hello World" printing script
-* `Day1/LAB002.py` - Basic arithmetic calculations & float division outputs
-* `Day1/LAB003.py` - Custom string formatting using `sep` and `end` parameters
-* `Day1/LAB004.py` - Dynamic user input handling via `input()`
-* `Day1/LAB005.py` - Basic CLI Calculator handling integer inputs and math operations
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/alijansqa/Python-7-Days-Challenge.git](https://github.com/alijansqa/Python-7-Days-Challenge.git)
