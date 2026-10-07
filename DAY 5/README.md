@@ -21,9 +21,9 @@ Day 5 of the Python challenge covers reusable code blocks, built-in vs user-defi
 | `Lab035.py` | Introduction to functions (built-in and user-defined `greet()`)[cite: 14]. |
 | `Lab036.py` | Function arguments, positional variables, and multi-argument handling[cite: 15]. |
 | `Lab037.py` | List data structures, indexing, and mutable operations (`append`, `remove`)[cite: 16]. |
-| `Lab038.py` | Sets (unique items), Tuples (immutable items), and Dictionaries (key-value pairs)[cite: 17, 18]. |
-| `Lab039.py` - `Lab041.py` | Python Lambda expressions and anonymous function shortcuts[cite: 19]. |
-| `Lab042.py` | Recursive functions with base exit conditions[cite: 20]. |
+| `Lab038.py` - `Lab039` | Sets (unique items), Tuples (immutable items), and Dictionaries (key-value pairs)[cite: 17, 18]. |
+| `Lab040.py` | Python Lambda expressions and anonymous function shortcuts[cite: 19]. |
+| `Lab041.py` | Recursive functions with base exit conditions[cite: 20]. |
 
 ## Author
 **Ali Jan**
