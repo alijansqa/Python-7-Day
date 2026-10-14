@@ -65,7 +65,8 @@ s = Son()   # son will be prioritized because we have created the object
 s.bhk()
 
 
-# Multilevel Inheritance
+
+# Multi-level Inheritance
 
 class Grandfather():
     def lambo(self):
@@ -82,3 +83,26 @@ class Son(Father):
 s = Son()   # son will be prioritized because we have created the object
 s.bhk()
 s.lambo()
+
+
+# Multi-Level
+
+class Car:
+    @staticmethod
+    def start():
+     print("Car Started...")
+    @staticmethod
+    def stop():
+     print("Car Stopped.")
+
+class Toyota(Car):
+    def __init__(self, brand):
+        self.brand = brand
+
+class Fortuner(Toyota):
+    def __init__(self, type):
+        self.type = type
+
+car1 = Fortuner("Diesel")
+car1.start()
+print(car1.type)
