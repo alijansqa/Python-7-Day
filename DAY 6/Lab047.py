@@ -106,3 +106,22 @@ class Fortuner(Toyota):
 car1 = Fortuner("Diesel")
 car1.start()
 print(car1.type)
+
+
+
+# Multiple Inheritance
+
+class A:
+    varA = "Hi, My Name is Ali Jan."
+
+class B:
+    varB = "I am a Software Engineer."
+
+class C(A, B):
+    varC = "I am working on Python."
+
+c1 = C()
+
+print(c1.varA)
+print(c1.varB)
+print(c1.varC)
