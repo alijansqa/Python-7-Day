@@ -16,7 +16,7 @@ This folder contains hands-on scripts exploring core Object-Oriented Programming
   * Protecting sensitive attributes using private variables (`self.__balance`) and safely modifying/accessing them via getter and setter methods (`get_balance()`, `deposit()`, `withdraw()`)[cite: 11].
 * **`Lab046.py` - Single Inheritance**
   * Inheriting attributes and methods from a parent class (`Animal`) to a child class (`Dog`) to achieve code reusability[cite: 12].
-* **`Lab047.py` - Multilevel Inheritance**
+* **`Lab047.py` - Multi-level Inheritance & Multiple Inheritance**
   * Demonstrating multi-generational inheritance chains (`Grandfather` $\rightarrow$ `Father` $\rightarrow$ `Son`) and method resolution[cite: 13].
 
 ---
